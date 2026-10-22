@@ -11,5 +11,5 @@ Fork 自 https://github.com/panghujiajia/aliyundrive-batch-rename
  - 支持对文件夹进行批量重命名;
  - 文件列表太长时能自动触发滚动并向下加载;
 
-安装地址: https://github.com/sherlocknieh/alipan-batch-rename/raw/dist/alipan-batch-rename.user.js
+安装地址: https://github.com/sherlocknieh/alipan-batch-rename/raw/main/dist/alipan-batch-rename.user.js
 
