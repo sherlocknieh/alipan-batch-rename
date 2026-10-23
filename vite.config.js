@@ -18,7 +18,7 @@ export default defineConfig({
 				author: 'sherlocknieh',
 				description: '对阿里云盘里的剧集进行批量重命名',
 				license: 'GPL',
-				icon: 'https://www.alipan.com/favicon.ico',
+				icon: 'https://img.alicdn.com/imgextra/i2/O1CN011vHpiQ251TseXpbH7_!!6000000007466-2-tps-120-120.png',
 				match: [
 					'*://*.alipan.com/*',
 					'https://www.aliyundrive.com/*',
